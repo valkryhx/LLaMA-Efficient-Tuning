@@ -140,7 +140,7 @@
     "file_sha1": "515b18ed497199131ddcc1af950345c11dc5c7fd"
   },
   "comparison_yunguan": {
-    "file_name": "comparison_yunguan.json"
+    "file_name": "data/comparison_yunguan.json"
   },
   "hh_rlhf_en": {
     "script_url": "hh_rlhf_en",
